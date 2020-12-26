@@ -1,3 +1,3 @@
 # jen-test
 ### Test => Jenkins!!!
-[]jenIsDone?
+[] Is Jenkins set up?
