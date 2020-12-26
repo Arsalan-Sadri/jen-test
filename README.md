@@ -3,6 +3,4 @@
 [ ] Is Jenkins set up?
 
 - [ ] test!
-
-[ ] test!
-* [ ] test! 
+* [ ] Done? 
