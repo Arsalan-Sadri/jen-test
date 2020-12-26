@@ -4,18 +4,4 @@
 
 - [ ] test!
 * [ ] Done? 
-
-kljkljkljjlk
-sdfsfdsf
-lkl;k
-klljljk
-sdfdsf
-sdfdsfsd
-sdffsd
-sdfdsfsdsdfdsfs
-sdfdsfs
-fsdfsds
-sdfsfs
-sdfssd
-sdfsdfd
-sdfsdfsd
+* [ ] Done? 
